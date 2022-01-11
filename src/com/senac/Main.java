@@ -10,6 +10,10 @@ public class Main {
 
     Circulo circulo = new Circulo(2.5, 3.14);
 
+    Geometricas geometricas = new Geometricas(4);
+
+
+
         System.out.println();
 
     }
